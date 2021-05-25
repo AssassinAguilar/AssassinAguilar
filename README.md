@@ -34,8 +34,8 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 
 ## Connect With Me
 
-[![Codepen](https://img.shields.io/badge/-Codepen-545454?style=flat&logo=codepen&logoWidth=20&logoColor=white)](https://codepen.io/assassinaguilar)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-e54786?style=flat&logo=dribbble&logoWidth=20&logoColor=white)](https://dribbble.com/AssassinAguilar)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-e60023?style=flat&logo=pinterest&logoWidth=20&logoColor=white)](https://in.pinterest.com/SololearnAssassin)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=flat&logo=stackoverflow&logoWidth=20&logoColor=white)](https://stackoverflow.com/users/15887518/assassin)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=flat&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
+[![Codepen](https://img.shields.io/badge/-Codepen-545454?style=for-the-badge&logo=codepen&logoWidth=20&logoColor=white)](https://codepen.io/assassinaguilar)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-e54786?style=for-the-badge&logo=dribbble&logoWidth=20&logoColor=white)](https://dribbble.com/AssassinAguilar)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-e60023?style=for-the-badge&logo=pinterest&logoWidth=20&logoColor=white)](https://in.pinterest.com/SololearnAssassin)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=for-the-badge&logo=stackoverflow&logoWidth=20&logoColor=white)](https://stackoverflow.com/users/15887518/assassin)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
