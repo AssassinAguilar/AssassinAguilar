@@ -38,4 +38,4 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 [![Dribbble](https://img.shields.io/badge/-Dribbble-e54786?style=flat&logo=dribbble&logoWidth=20&logoColor=white)](https://dribbble.com/AssassinAguilar)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-e60023?style=flat&logo=pinterest&logoWidth=20&logoColor=white)](https://in.pinterest.com/SololearnAssassin)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=flat&logo=stackoverflow&logoWidth=20&logoColor=white)](https://stackoverflow.com/users/15887518/assassin)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-2196f3?style=flat&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=flat&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
