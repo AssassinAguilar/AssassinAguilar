@@ -6,7 +6,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=assassinaguilar&color=blue) <br />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=assassinaguilar&column=3&margin-w=15&margin-h=15&theme=darkhub) <br />
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinaguilar&show_icons=true&theme=github_dark) <br />
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinaguilar&show_icons=true&include_all_commits=true&theme=github_dark) <br />
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assassinaguilar&layout=compact&theme=github_dark) <br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=assassinaguilar&theme=dark&hide_border=false) <br />
 
