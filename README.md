@@ -42,7 +42,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 
 :postbox: Contact me on
 
-[![Telegram](https://img.shields.io/badge/-Telegram-dodgerblue?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white)](https://t.me/AssassinAguilar)
+[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white)](https://t.me/AssassinAguilar)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
 
 **Note:- Sololearn only supports messenger on it's offical app**
