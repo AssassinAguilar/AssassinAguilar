@@ -1,6 +1,6 @@
 # Hello, Human ! :wave:
 
-#### I am AssassinAguilar. I am passionate about programming and coding. Currently focusing on programming. Here, I am creating some awesome JS Libraries and CSS Fameworks.
+I am AssassinAguilar. I am passionate about programming and coding. Currently focusing on programming. Here, I am creating some awesome JS Libraries and CSS Fameworks.
 
 ## :chart_with_upwards_trend: My GitHub stats
 ![Profile Views](https://komarev.com/ghpvc/?username=assassinaguilar&color=blue&style=plastic) <br />
@@ -8,8 +8,9 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinaguilar&show_icons=true&theme=github_dark) <br />
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assassinaguilar&layout=compact&theme=github_dark) <br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=assassinaguilar&theme=dark&hide_border=false)](https://git.io/streak-stats) <br />
-### Best Repo
-[![Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=assassinaguilar&repo=Alertism&show_icons=true&theme=github_dark)](https://github.com/assassinaguilar/Alertism)
+
+## Best Repository
+[![Best Repository](https://github-readme-stats.vercel.app/api/pin/?username=assassinaguilar&repo=Alertism&show_icons=true&theme=github_dark)](https://github.com/assassinaguilar/Alertism)
 
 ## :hammer_and_wrench: Technologies & Tools
 
