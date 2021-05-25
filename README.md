@@ -3,8 +3,8 @@
 I am passionate about programming or coding. Currently focusing on programming. Here, I am creating some awesome JS Libraries and CSS Fameworks.
 
 ## :chart_with_upwards_trend: My GitHub stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinaguilar&show_icons=true&theme=github_dark)
-![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assassinaguilar&layout=compact&theme=github_dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinaguilar&show_icons=true&theme=github_dark) <br />
+![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assassinaguilar&layout=compact&theme=github_dark) <br />
 [![Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=assassinaguilar&repo=Alertism&show_icons=true&theme=github_dark)](https://github.com/assassinaguilar/Alertism)
 
 ## :hammer_and_wrench: Technologies & Tools
