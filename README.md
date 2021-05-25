@@ -40,4 +40,9 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=for-the-badge&logo=stackoverflow&logoWidth=20&logoColor=white)](https://stackoverflow.com/users/15887518/assassin)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
 
-• Contact me on [![Telegram](https://img.shields.io/badge/-Telegram-545454?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white)](https://t.me/AssassinAguilar) or [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887) App Messenger
+#### Contact me on
+
+[![Telegram](https://img.shields.io/badge/-Telegram-545454?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white)](https://t.me/AssassinAguilar)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
+
+** Note:- Sololearn only supports messenger on it's offical app **
