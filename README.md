@@ -3,6 +3,7 @@
 I am AssassinAguilar. I am passionate about programming and coding. Currently focusing on programming. Here, I am creating some awesome JS Libraries and CSS Fameworks.
 
 ## :chart_with_upwards_trend: My GitHub stats
+
 ![Profile Views](https://komarev.com/ghpvc/?username=assassinaguilar&color=blue&style=plastic) <br />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=assassinaguilar&column=3&margin-w=15&margin-h=15&theme=darkhub) <br />
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinaguilar&show_icons=true&theme=github_dark) <br />
@@ -30,3 +31,11 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 ![WT](https://img.shields.io/badge/Web--Technology-Redux-blue?style=plastic&logo=redux&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-SASS-blue?style=plastic&logo=sass&logoWidth=20&logoColor=white)
 ![DB](https://img.shields.io/badge/Database-SQL-blue?style=plastic&logo=sql&logoWidth=20&logoColor=white)
+
+## Connect With Me
+
+[![Codepen](https://img.shields.io/badge/-Codepen-545454?style=flat&logo=codepen&logoWidth=20&logoColor=white)](https://codepen.io/assassinaguilar)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-e54786?style=flat&logo=dribbble&logoWidth=20&logoColor=white)](https://dribbble.com/AssassinAguilar)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-e60023?style=flat&logo=pinterest&logoWidth=20&logoColor=white)](https://in.pinterest.com/SololearnAssassin)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=flat&logo=stackoverflow&logoWidth=20&logoColor=white)](https://stackoverflow.com/users/15887518/assassin)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-2196f3?style=flat&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
