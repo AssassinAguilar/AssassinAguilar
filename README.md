@@ -30,7 +30,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 ![WT](https://img.shields.io/badge/Web--Technology-React-blue?style=plastic&logo=react&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-Redux-blue?style=plastic&logo=redux&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-SASS-blue?style=plastic&logo=sass&logoWidth=20&logoColor=white)
-![DB](https://img.shields.io/badge/Database-SQL-blue?style=plastic&logo=sql&logoWidth=20&logoColor=white)
+![DB](https://img.shields.io/badge/Database-SQL-blue?style=plastic&logo=mySql&logoWidth=20&logoColor=white)
 
 ## Connect With Me
 
