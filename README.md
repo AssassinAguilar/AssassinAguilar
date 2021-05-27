@@ -2,7 +2,7 @@
 
 I am AssassinAguilar. I am passionate about programming and coding. Currently focusing on programming. Here, I am creating some awesome JS Libraries and CSS Fameworks.
 
-## :chart_with_upwards_trend: My GitHub stats
+## :chart_with_upwards_trend: My GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AssassinAguilar&color=blue) <br />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AssassinAguilar&column=3&margin-w=15&margin-h=15&theme=darkhub) <br />
@@ -13,7 +13,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AssassinAguilar&theme=dark&hide_border=false) <br />
 
 ## Best Repository
-[![Best Repository](https://github-readme-stats.vercel.app/api/pin/?username=AssassinAguilar&repo=Alertism&show_icons=true&theme=github_dark)](https://github.com/AssassinAguilar/Alertism)
+[![Alertism](https://github-readme-stats.vercel.app/api/pin/?username=AssassinAguilar&repo=Alertism&show_icons=true&theme=github_dark)](https://github.com/AssassinAguilar/Alertism)
 
 ## :hammer_and_wrench: Technologies & Tools
 
@@ -42,7 +42,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=for-the-badge&logo=stackoverflow&logoWidth=20&logoColor=white)](https://stackoverflow.com/users/15887518/assassin)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
 
-:postbox: Contact me on
+:postbox: Contact Me On
 
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/14097887)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white)](https://t.me/AssassinAguilar)
