@@ -28,13 +28,13 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 ![WT](https://img.shields.io/badge/Web--Technology-jQuery-blue?style=plastic&logo=jQuery&logoWidth=20&logoColor=white)
 ![PL](https://img.shields.io/badge/Programming--Language-Kotlin-blue?style=plastic&logo=kotlin&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-Markdown-blue?style=plastic&logo=markdown&logoWidth=20&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Windows-blue?style=plastic&logo=windows&logoWidth=20&logoColor=white)
 ![DB](https://img.shields.io/badge/Database-PHP-blue?style=plastic&logo=php&logoWidth=20&logoColor=white)
 ![PL](https://img.shields.io/badge/Programming--Language-Python-blue?style=plastic&logo=python&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-React-blue?style=plastic&logo=react&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-Redux-blue?style=plastic&logo=redux&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-SASS-blue?style=plastic&logo=sass&logoWidth=20&logoColor=white)
 ![DB](https://img.shields.io/badge/Database-SQL-blue?style=plastic&logo=mySql&logoWidth=20&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Windows-blue?style=plastic&logo=windows&logoWidth=20&logoColor=white)
 
 ## Connect With Me
 
