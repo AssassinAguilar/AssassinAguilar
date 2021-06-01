@@ -18,6 +18,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 ## :hammer_and_wrench: Technologies & Tools
 
 ![WT](https://img.shields.io/badge/Web--Technology-Angular-blue?style=plastic&logo=angular&logoWidth=20&logoColor=white)
+![SW](https://img.shields.io/badge/Software-Blender-blue?style=plastic&logo=blender&logoWidth=20&logoColor=white)
 ![FW](https://img.shields.io/badge/CSS--Framework-Bootstrap-blue?style=plastic&logo=bootstrap&logoWidth=20&logoColor=white)
 ![FW](https://img.shields.io/badge/CSS--Framework-Bulma-blue?style=plastic&logo=bulma&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-CSS3-blue?style=plastic&logo=css3&logoWidth=20&logoColor=white)
@@ -26,6 +27,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 ![WT](https://img.shields.io/badge/Web--Technology-JavaScript-blue?style=plastic&logo=javascript&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-jQuery-blue?style=plastic&logo=jQuery&logoWidth=20&logoColor=white)
 ![PL](https://img.shields.io/badge/Programming--Language-Kotlin-blue?style=plastic&logo=kotlin&logoWidth=20&logoColor=white)
+![WT](https://img.shields.io/badge/Web--Technology-Markdown-blue?style=plastic&logo=markdown&logoWidth=20&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Windows-blue?style=plastic&logo=windows&logoWidth=20&logoColor=white)
 ![DB](https://img.shields.io/badge/Database-PHP-blue?style=plastic&logo=php&logoWidth=20&logoColor=white)
 ![PL](https://img.shields.io/badge/Programming--Language-Python-blue?style=plastic&logo=python&logoWidth=20&logoColor=white)
