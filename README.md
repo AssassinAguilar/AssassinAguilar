@@ -22,6 +22,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 ![FW](https://img.shields.io/badge/CSS--Framework-Bootstrap-blue?style=plastic&logo=bootstrap&logoWidth=20&logoColor=white)
 ![FW](https://img.shields.io/badge/CSS--Framework-Bulma-blue?style=plastic&logo=bulma&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-CSS3-blue?style=plastic&logo=css3&logoWidth=20&logoColor=white)
+![WT](https://img.shields.io/badge/Web--Technology-Flutter-blue?style=plastic&logo=flutter&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-HTML5-blue?style=plastic&logo=html5&logoWidth=20&logoColor=white)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=plastic&logo=visual-studio-code&logoWidth=20&logoColor=white)
 ![WT](https://img.shields.io/badge/Web--Technology-JavaScript-blue?style=plastic&logo=javascript&logoWidth=20&logoColor=white)
