@@ -14,7 +14,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 
 ## Best Repositories
 [![Alertism](https://github-readme-stats.vercel.app/api/pin/?username=AssassinAguilar&repo=Alertism&show_icons=true&theme=github_dark&icon_color=7c858f)](https://github.com/AssassinAguilar/Alertism)
-[![Wavy Beats](https://github-readme-stats.vercel.app/api/pin/?username=AssassinAguilar&repo=Wavy-Beats&show_icons=true&theme=github_dark&icon_color=7c858f)](https://github.com/AssassinAguilar/Alertism)
+[![Wavy Beats](https://github-readme-stats.vercel.app/api/pin/?username=AssassinAguilar&repo=Wavy-Beats&show_icons=true&theme=github_dark&icon_color=7c858f)](https://github.com/AssassinAguilar/Wavy-Beats)
 
 ## :hammer_and_wrench: Technologies & Tools
 
