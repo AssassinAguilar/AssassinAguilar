@@ -1,5 +1,5 @@
 # Hello, Human ! :wave:
-https://docs.google.com/forms/d/e/1FAIpQLSdX1fJO100U_pwn14dHyD49uZ-AzXJvIuY79gL3l3qUDEiHgw/viewform?usp=sf_link
+
 I am AssassinAguilar. I am passionate about programming and coding. Currently focusing on programming. Here, I am creating some awesome JS Libraries and CSS Fameworks.
 
 ## :chart_with_upwards_trend: My GitHub Stats
