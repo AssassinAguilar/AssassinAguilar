@@ -13,6 +13,7 @@ I am AssassinAguilar. I am passionate about programming and coding. Currently fo
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AssassinAguilar&theme=dark&hide_border=false) <br />
 
 ## Best Repositories
+[![Wavy Beats](https://github-readme-stats.vercel.app/api/pin/?username=AssassinAguilar&repo=WavyBeats&show_icons=true&theme=github_dark&icon_color=7c858f)](https://github.com/AssassinAguilar/WavyBeats)
 [![Alertism](https://github-readme-stats.vercel.app/api/pin/?username=AssassinAguilar&repo=Alertism&show_icons=true&theme=github_dark&icon_color=7c858f)](https://github.com/AssassinAguilar/Alertism)
 
 ## :hammer_and_wrench: Technologies & Tools
